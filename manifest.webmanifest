@@ -1,0 +1,17 @@
+{
+  "name": "프로게이머 커리어",
+  "short_name": "롤 커리어",
+  "description": "15세 2군 벤치에서 시작하는 텍스트·픽셀 롤 프로게이머 커리어 시뮬레이터",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0E1A2B",
+  "theme_color": "#0E1A2B",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
